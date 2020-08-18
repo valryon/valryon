@@ -12,7 +12,7 @@ Learn more about me:
 Some projects I worked on:
 
 - 🚀 [Steredenn](http://steredenn.pixelnest.io)
-- ⬛ [Flipon](https://twitter.com/flipongame)
+- ⬛ [Flipon](https://www.flipon.net)
 - 🚕 [Night Call](https://nightcall-game.com/)
 - 👿 [2DOOM](https://2doom.itch.io/game)
 
