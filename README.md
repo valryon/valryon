@@ -11,7 +11,7 @@ Learn more about me:
 
 Some projects I worked on:
 
-- 👁️‍🗨️ [Flat Eye](https://flateye-game.com/)
+- 👁️‍🗨️ [Flat Eye](http://flateye-game.com/)
 - 🚀 [Steredenn](http://steredenn.pixelnest.io)
 - ⬛ [Flipon](https://www.flipon.net)
 - 🚕 [Night Call](https://nightcall-game.com/)
