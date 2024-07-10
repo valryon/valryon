@@ -20,3 +20,4 @@ Some projects I worked on:
 
 And obviously, here's my GitHub profile! My main repositories are private for legal/commercial reasons (games, assets, thrid party plugins, etc) but I do have some interesting public stuff here.
 
+[![Valryon's GitHub stats](https://github-readme-stats.vercel.app/api?username=valryon)](https://github.com/anuraghazra/github-readme-stats)
