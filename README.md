@@ -1,8 +1,8 @@
 Hello!
 
-I'm a French indie game, web and software developer. I love programming, creating and hacking stuff.
+I'm a French indie game, web, XR and software developer. I love programming, creating and hacking stuff.
 
-I co-founded [Pixelnest Studio](https://pixelnest.io) where I created Steredenn and created and helper other games and projects since.
+I co-founded [Pixelnest Studio](https://pixelnest.io) in 2014, we've created Steredenn, Flipon & Cthuloot and helped other games and projects since.
 
 Learn more about me:
 
@@ -20,4 +20,3 @@ Some projects I worked on:
 
 And obviously, here's my GitHub profile! My main repositories are private for legal/commercial reasons (games, assets, thrid party plugins, etc) but I do have some interesting public stuff here.
 
-[![Valryon's GitHub stats](https://github-readme-stats.vercel.app/api?username=valryon)](https://github.com/anuraghazra/github-readme-stats)
