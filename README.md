@@ -11,6 +11,8 @@ Learn more about me:
 
 Some projects I worked on:
 
+- 🚀 [Cosmo Cargo](https://store.steampowered.com/app/4028760)
+- 👾 [Battlestar Galactica: Scattered Hopes](https://store.steampowered.com/app/2535950/Battlestar_Galactica_Scattered_Hopes/)
 - 🐙 [CTHULOOT](https://cthuloot.games)
 - 👁️‍🗨️ [Flat Eye](http://flateye-game.com/)
 - 🚀 [Steredenn](http://steredenn.pixelnest.io)
